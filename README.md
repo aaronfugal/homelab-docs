@@ -21,7 +21,7 @@ This repository documents the ProtonSystems homelab: a self-hosted IT environmen
 - **Networking:**
   - TP-Link Layer 2 managed switch
   - Dedicated Wi-Fi Access Point
-  - Quantum Fiber ISP with separate router & patch panel
+  
 
 ---
 
