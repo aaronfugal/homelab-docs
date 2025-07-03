@@ -43,5 +43,5 @@ homelab-documentation/
 ├── nickel/                # Domain Controller (AD/DNS)
 ├── boron/                 # Reverse proxy container
 ├── beryllium/             # Guacamole container
-├── magnesium/             # Bot repo reference
-└── hardware-notes.md      # Rack, cabling, and hardware
+└── magnesium/             # Bot repo reference
+
