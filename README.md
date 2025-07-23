@@ -13,7 +13,7 @@ This repository documents the ProtonSystems homelab: a self-hosted IT environmen
 
 - **Hypervisor:** `tungsten` — Proxmox VE host running core infrastructure
 - **Active Directory Domain:** `three.local` managed by `nickel`
-- **Media Services:** `aluminum` Plex Media Server with Radarr, Sonarr, qBittorrent
+- **Media Services:** `aluminum` Plex Media Server with Radarr, and Sonarr
 - **Reverse Proxy & Remote Access:**
   - `boron` — Cloudflare Tunnel, NGINX
   - `beryllium` — Apache Guacamole for browser-based remote desktop
