@@ -43,5 +43,6 @@ homelab-documentation/
 ├── nickel/                # Domain Controller (AD/DNS)
 ├── boron/                 # Reverse proxy container
 ├── beryllium/             # Guacamole container
+├── tungsten/              # Proxmox host 
 └── magnesium/             # Bot repo reference
 
