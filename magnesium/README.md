@@ -39,7 +39,12 @@ The Discord bot is hosted inside an LXC container on my Proxmox environment. Set
 
 5. **Automated Backups**
    - A cron job runs daily to back up the three SQLite databases.
-   - The backup script logs success/failure for each DB:
+   - The backup script logs success/failure for each DB.
+
+     #### 📄 Crontab Entry
+     ```cron
+     0 5 * * * /root/Discord-Bot/Ingrid-Patel/scripts/backup_games_db.sh >> /root/Discord-Bot/cron_output.log 2>&1
+     ```
 
      #### 📄 `backup_games_db.sh`
      ```bash
