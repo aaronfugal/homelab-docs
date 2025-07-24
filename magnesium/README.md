@@ -79,11 +79,9 @@ The Discord bot is hosted inside an LXC container on my Proxmox environment. Set
 
 ---
 
-## Optional Visual
+## Visual Architecture
 
-A topology diagram can be added to show how `magnesium` connects to:
-- Radarr and Sonarr APIs
-- Plex server (`aluminum`)
-- Client interaction via Discord
+![Magnesium Architecture](./Magnesium%20Diagram.png)
+
 
 ---
