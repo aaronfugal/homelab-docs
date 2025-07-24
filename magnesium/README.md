@@ -81,7 +81,7 @@ The Discord bot is hosted inside an LXC container on my Proxmox environment. Set
 
 ## Visual Architecture
 
-![Magnesium Architecture](./magnesium%20Diagram.png)
+![Magnesium Architecture](./magnesium-diagram.drawio.png)
 
 
 ---
