@@ -53,7 +53,6 @@ Cloudflare Zero Trust secures the exposed services using layered policy enforcem
 | Container   | Purpose                        | IP               | Notes                             |
 |-------------|--------------------------------|------------------|-----------------------------------|
 | `aluminum`  | Plex Media Server              | 192.168.0.253    | Routed through `plex.` subdomain |
-| `nickel`    | Domain Controller (AD/DNS)     | 192.168.0.250    | Not directly exposed              |
 | `beryllium` | Apache Guacamole (Remote UI)   | 192.168.0.248    | Routed through `apache.` subdomain |
 | `tungsten`  | Proxmox Host                   | 192.168.0.252    | Routed through `proxmox.` subdomain |
 
